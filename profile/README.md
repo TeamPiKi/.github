@@ -7,12 +7,14 @@
 여러 쇼핑몰에 흩어진 위시템을 한곳에 모으고,
 1:1 토너먼트로 비교해 진짜 갖고 싶은 하나를 직접 결정하게 돕습니다.
 
+<p>
+  <a href="https://apps.apple.com/kr/app/piki-%EA%B0%99%EC%9D%B4-%EA%B3%A0%EB%A5%B4%EB%8A%94-%EC%87%BC%ED%95%91-%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/id6777101805"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" height="44" alt="Download on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=day.no30s.piki"><img src="assets/google-play-badge.png" height="44" alt="Get it on Google Play"></a>
+  <br />
+  <a href="https://piki.day"><b>piki.day</b></a> · <a href="https://piki.day/terms">이용약관</a> · <a href="https://piki.day/privacy">개인정보처리방침</a>
+</p>
+
 <img src="assets/banner.png" width="100%" alt="PiKi — From wish to PiKi">
-
-<a href="https://apps.apple.com/kr/app/piki-%EA%B0%99%EC%9D%B4-%EA%B3%A0%EB%A5%B4%EB%8A%94-%EC%87%BC%ED%95%91-%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/id6777101805"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ko-kr" height="44" alt="App Store에서 다운로드"></a>
-<a href="https://play.google.com/store/apps/details?id=day.no30s.piki"><img src="assets/google-play-badge.png" height="44" alt="Google Play에서 다운로드"></a>
-
-[piki.day](https://piki.day)
 
 </div>
 
@@ -119,26 +121,78 @@ flowchart LR
 ## 팀 소개
 
 <table>
+  <thead>
+    <tr>
+      <th align="center" colspan="4">Client</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <th width="16%">Client</th>
-      <td align="center" width="21%"><img src="assets/team/iodio89.png" width="100" /><br /><b>정선아</b><br /><a href="https://github.com/iodio89">@iodio89</a></td>
-      <td align="center" width="21%"><img src="assets/team/soyeong0115.png" width="100" /><br /><b>박소영</b><br /><a href="https://github.com/soyeong0115">@soyeong0115</a></td>
-      <td align="center" width="21%"><img src="assets/team/kanghaeun.png" width="100" /><br /><b>강하은</b><br /><a href="https://github.com/kanghaeun">@kanghaeun</a></td>
-      <td align="center" width="21%"><img src="assets/team/ychany.png" width="100" /><br /><b>조영찬</b><br /><a href="https://github.com/ychany">@ychany</a></td>
+      <td align="center" width="25%"><img src="assets/team/iodio89.png" width="120" /></td>
+      <td align="center" width="25%"><img src="assets/team/soyeong0115.png" width="120" /></td>
+      <td align="center" width="25%"><img src="assets/team/kanghaeun.png" width="120" /></td>
+      <td align="center" width="25%"><img src="assets/team/ychany.png" width="120" /></td>
     </tr>
     <tr>
-      <th>Server</th>
-      <td align="center"><img src="assets/team/sevineleven.png" width="100" /><br /><b>박세빈</b><br /><a href="https://github.com/sevineleven">@sevineleven</a></td>
-      <td align="center"><img src="assets/team/1o18z.png" width="100" /><br /><b>박은지</b><br /><a href="https://github.com/1o18z">@1o18z</a></td>
-      <td align="center"><img src="assets/team/m-a-king.png" width="100" /><br /><b>조재중</b><br /><a href="https://github.com/m-a-king">@m-a-king</a></td>
+      <td align="center"><b>정선아</b></td>
+      <td align="center"><b>박소영</b></td>
+      <td align="center"><b>강하은</b></td>
+      <td align="center"><b>조영찬</b></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/iodio89">@iodio89</a></td>
+      <td align="center"><a href="https://github.com/soyeong0115">@soyeong0115</a></td>
+      <td align="center"><a href="https://github.com/kanghaeun">@kanghaeun</a></td>
+      <td align="center"><a href="https://github.com/ychany">@ychany</a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th align="center" colspan="4">Server</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="25%"><img src="assets/team/sevineleven.png" width="120" /></td>
+      <td align="center" width="25%"><img src="assets/team/1o18z.png" width="120" /></td>
+      <td align="center" width="25%"><img src="assets/team/m-a-king.png" width="120" /></td>
+      <td width="25%"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>박세빈</b></td>
+      <td align="center"><b>박은지</b></td>
+      <td align="center"><b>조재중</b></td>
       <td></td>
     </tr>
     <tr>
-      <th>Design</th>
-      <td align="center"><img src="assets/team/yejin.png" width="100" /><br /><b>육예진</b></td>
-      <td align="center"><img src="assets/team/yebin.png" width="100" /><br /><b>이예빈</b></td>
-      <td align="center"><img src="assets/team/euiyeon.png" width="100" /><br /><b>정의연</b></td>
+      <td align="center"><a href="https://github.com/sevineleven">@sevineleven</a></td>
+      <td align="center"><a href="https://github.com/1o18z">@1o18z</a></td>
+      <td align="center"><a href="https://github.com/m-a-king">@m-a-king</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th align="center" colspan="4">Design</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="25%"><img src="assets/team/yejin.png" width="120" /></td>
+      <td align="center" width="25%"><img src="assets/team/yebin.png" width="120" /></td>
+      <td align="center" width="25%"><img src="assets/team/euiyeon.png" width="120" /></td>
+      <td width="25%"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>육예진</b></td>
+      <td align="center"><b>이예빈</b></td>
+      <td align="center"><b>정의연</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td></td>
     </tr>
   </tbody>
