@@ -122,16 +122,16 @@ flowchart LR
   <tbody>
     <tr>
       <th width="16%">Client</th>
-      <td align="center" width="21%"><img src="https://github.com/iodio89.png" width="100" /><br /><b>정선아</b><br /><a href="https://github.com/iodio89">@iodio89</a></td>
-      <td align="center" width="21%"><img src="https://github.com/soyeong0115.png" width="100" /><br /><b>박소영</b><br /><a href="https://github.com/soyeong0115">@soyeong0115</a></td>
-      <td align="center" width="21%"><img src="https://github.com/kanghaeun.png" width="100" /><br /><b>강하은</b><br /><a href="https://github.com/kanghaeun">@kanghaeun</a></td>
-      <td align="center" width="21%"><img src="https://github.com/ychany.png" width="100" /><br /><b>조영찬</b><br /><a href="https://github.com/ychany">@ychany</a></td>
+      <td align="center" width="21%"><img src="assets/team/iodio89.png" width="100" /><br /><b>정선아</b><br /><a href="https://github.com/iodio89">@iodio89</a></td>
+      <td align="center" width="21%"><img src="assets/team/soyeong0115.png" width="100" /><br /><b>박소영</b><br /><a href="https://github.com/soyeong0115">@soyeong0115</a></td>
+      <td align="center" width="21%"><img src="assets/team/kanghaeun.png" width="100" /><br /><b>강하은</b><br /><a href="https://github.com/kanghaeun">@kanghaeun</a></td>
+      <td align="center" width="21%"><img src="assets/team/ychany.png" width="100" /><br /><b>조영찬</b><br /><a href="https://github.com/ychany">@ychany</a></td>
     </tr>
     <tr>
       <th>Server</th>
-      <td align="center"><img src="https://github.com/sevineleven.png" width="100" /><br /><b>박세빈</b><br /><a href="https://github.com/sevineleven">@sevineleven</a></td>
-      <td align="center"><img src="assets/team/eunji.png" width="100" /><br /><b>박은지</b></td>
-      <td align="center"><img src="https://github.com/m-a-king.png" width="100" /><br /><b>조재중</b><br /><a href="https://github.com/m-a-king">@m-a-king</a></td>
+      <td align="center"><img src="assets/team/sevineleven.png" width="100" /><br /><b>박세빈</b><br /><a href="https://github.com/sevineleven">@sevineleven</a></td>
+      <td align="center"><img src="assets/team/1o18z.png" width="100" /><br /><b>박은지</b><br /><a href="https://github.com/1o18z">@1o18z</a></td>
+      <td align="center"><img src="assets/team/m-a-king.png" width="100" /><br /><b>조재중</b><br /><a href="https://github.com/m-a-king">@m-a-king</a></td>
       <td></td>
     </tr>
     <tr>
