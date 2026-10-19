@@ -109,6 +109,26 @@ flowchart LR
 
 ---
 
+## 시스템 구조
+
+<img src="assets/sections/architecture.png" width="100%" alt="PiKi 전체 시스템 구조">
+
+**모든 요청은 API 서버 하나를 거칩니다.**
+
+iOS · Android · Web 의 요청은 AWS 위의 API 서버(core)로 모입니다. API 서버가 위시 · 토너먼트 · 사용자 데이터를 관리하고, 소셜 로그인(Google · Kakao · Apple)과 푸시 알림을 연결합니다.
+
+**상품 정보는 추출 서버가 따로 뽑아옵니다.**
+
+사용자가 링크나 캡처 이미지로 상품을 담으면, API 서버가 추출 서버(extractor)에 요청합니다. 추출 서버는 쇼핑몰 페이지에서 상품명 · 가격 · 이미지를 뽑아내고, 구조화된 정보가 부족하면 LLM 으로 보완합니다. 자바스크립트로 그려지는 쇼핑몰 페이지는 렌더링 서버(renderer)가 실제 브라우저로 열어 넘겨줍니다.
+
+<img src="assets/sections/architecture-client.png" width="100%" alt="앱이 웹뷰로 웹을 감싸는 클라이언트 구조">
+
+**앱은 웹 화면을 감싸고, 네이티브 기능만 맡습니다.**
+
+화면과 비즈니스 로직은 웹(Next.js)에 모으고, 앱은 웹뷰로 그 화면을 띄웁니다. 공유하기로 담기, 푸시 알림, 딥링크, 로그인 토큰 저장처럼 기기 기능이 필요한 일만 앱이 처리하고, 웹과 앱은 메시지(WebBridge)로 주고받습니다. 덕분에 대부분의 변경은 스토어 심사 없이 웹 배포만으로 바로 반영됩니다.
+
+---
+
 ## 레포지토리
 
 | 레포 | 무엇을 하나 |
@@ -180,7 +200,7 @@ flowchart LR
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="25%"></td>
+      <td align="center" width="25%"><img src="assets/team/yejin.png" width="120" /></td>
       <td align="center" width="25%"><img src="assets/team/yebin.png" width="120" /></td>
       <td align="center" width="25%"><img src="assets/team/euiyeon.png" width="120" /></td>
       <td width="25%"></td>
