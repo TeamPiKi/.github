@@ -86,16 +86,10 @@ PiKi 는 그 결정 단계에 집중합니다. 혼자서도 결정을 끝낼 수
 
 ## 서비스 이용 흐름
 
-```mermaid
-flowchart LR
-    Find[쇼핑몰에서<br/>상품 발견] --> Add[링크·이미지·공유로<br/>바구니에 담기]
-    Add --> Invite[친구 초대<br/>함께 담기]
-    Add --> Pair[가격대별<br/>대진표 생성]
-    Invite --> Pair
-    Pair --> Match[1:1 토너먼트]
-    Match --> Result[우승 상품 결정]
-    Result --> Receipt[영수증으로<br/>저장·공유]
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sections/flow-dark.png">
+  <img src="assets/sections/flow-light.png" width="100%" alt="서비스 이용 흐름 — 발견, 바구니에 담기, 대진표 생성, 1:1 토너먼트, 결과 영수증. 친구를 초대해 같이 담을 수도 있음">
+</picture>
 
 ---
 
