@@ -11,7 +11,7 @@
   <a href="https://apps.apple.com/kr/app/piki-%EA%B0%99%EC%9D%B4-%EA%B3%A0%EB%A5%B4%EB%8A%94-%EC%87%BC%ED%95%91-%ED%86%A0%EB%84%88%EB%A8%BC%ED%8A%B8/id6777101805"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" height="44" alt="Download on the App Store"></a>
   <a href="https://play.google.com/store/apps/details?id=day.no30s.piki"><img src="assets/google-play-badge.png" height="44" alt="Get it on Google Play"></a>
   <br />
-  <a href="https://piki.day"><b>piki.day</b></a> · <a href="https://piki.day/terms">이용약관</a> · <a href="https://piki.day/privacy">개인정보처리방침</a>
+  <a href="https://piki.day/?utm_source=github&utm_medium=referral&utm_campaign=org_profile"><b>piki.day</b></a> · <a href="https://piki.day/terms?utm_source=github&utm_medium=referral&utm_campaign=org_profile">이용약관</a> · <a href="https://piki.day/privacy?utm_source=github&utm_medium=referral&utm_campaign=org_profile">개인정보처리방침</a>
 </p>
 
 <img src="assets/banner.png" width="100%" alt="PiKi — From wish to PiKi">
@@ -44,6 +44,8 @@
 
 위시리스트 앱 10개를 살펴보니, 대부분 상품을 **모아두거나(Archive)**, **선물하거나(Gifting)**, **가격을 알려주는(Alert)** 데 머물러 있었습니다. 모은 다음 **무엇을 고를지 결정하는 단계**를 풀어주는 서비스는 없었습니다.
 
+<img src="assets/sections/positioning.jpg" width="100%" alt="포지셔닝 맵 — Archive · Gifting · Alert 와 PiKi">
+
 PiKi 는 그 결정 단계에 집중합니다. 혼자서도 결정을 끝낼 수 있고, 친구를 초대하면 게임처럼 함께 고를 수도 있게 방향을 잡았습니다.
 
 ---
@@ -60,7 +62,7 @@ PiKi 는 그 결정 단계에 집중합니다. 혼자서도 결정을 끝낼 수
 
 친구를 바구니에 초대해 후보를 함께 모을 수 있습니다. 초대받은 친구는 링크나 초대 코드만으로 회원가입 없이 바로 참여해 상품을 담습니다. 누가 어떤 상품을 담았는지는 프로필로 구분됩니다.
 
-<img src="assets/sections/invite.png" width="100%" alt="친구와 함께 담기 — Host View · Guest View">
+<img src="assets/sections/invite.jpg" width="100%" alt="친구와 함께 담기 — Host View · Guest View">
 
 **비교하기 좋은 대진표를 만들어 줍니다.**
 
@@ -178,7 +180,7 @@ flowchart LR
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="25%"><img src="assets/team/yejin.png" width="120" /></td>
+      <td align="center" width="25%"></td>
       <td align="center" width="25%"><img src="assets/team/yebin.png" width="120" /></td>
       <td align="center" width="25%"><img src="assets/team/euiyeon.png" width="120" /></td>
       <td width="25%"></td>
@@ -190,9 +192,9 @@ flowchart LR
       <td></td>
     </tr>
     <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center"><a href="https://www.behance.net/imyj980220af40">Behance</a></td>
+      <td align="center"><a href="https://www.behance.net/bad7ac99">Behance</a></td>
+      <td align="center"><a href="https://www.behance.net/euiyeonjeong">Behance</a></td>
       <td></td>
     </tr>
   </tbody>
